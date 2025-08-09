@@ -4,4 +4,4 @@ if (h2Elements.length > 0) {
 } else {
   console.error("Элемент <h2> не найден!");
 }
-document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
+// document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
